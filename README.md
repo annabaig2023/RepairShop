@@ -1,2 +1,2 @@
 # RepairShop
-Mobile App
+A Mobile App for Car Repairs
